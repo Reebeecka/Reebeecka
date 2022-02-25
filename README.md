@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finishing school!**
 
-- 🌱 I’m currently learning **JavaScript!**
+- 🌱 I’m currently learning **Angular!**
 
 - 👯 I’m looking to collaborate on **anything fun i CSS, HTML or JavaScript**
 
