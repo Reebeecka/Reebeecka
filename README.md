@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **finishing school!**
 
-- 🌱 I’m currently learning **Angular!**
+- 🌱 I’m currently learning **React!**
 
-- 👯 I’m looking to collaborate on **anything fun i CSS, HTML or JavaScript**
+- 👯 I’m looking to collaborate on **anything fun in CSS, HTML or JavaScript**
 
 - 👨‍💻 All of my projects are available here in my github!
 
