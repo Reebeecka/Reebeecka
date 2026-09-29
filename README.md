@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebecka Larsson</h1>
-<h3 align="center">A frontenddeveloper currently studting AI/Machinelearning at Teknikhögskolan in Sweden</h3>
+<h3 align="center">A frontenddeveloper currently studying AI/Machinelearning at Teknikhögskolan in Sweden</h3>
 
 - 🔭 I’m currently working on **MeetingNotFound application**
 
