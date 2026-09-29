@@ -19,12 +19,4 @@
 <a href="https://fb.com/rebeckalarssons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rebeckalarssons" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reebeecka&show_icons=true&locale=en&layout=compact" alt="reebeecka" border:"none";/></p>
 
-<br> </br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reebeecka&show_icons=true&locale=en" alt="reebeecka" /></p>
-
-<br> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reebeecka&" alt="reebeecka" /></p>
